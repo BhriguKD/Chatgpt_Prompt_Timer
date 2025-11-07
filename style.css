@@ -1,0 +1,9 @@
+.prompt-timestamp {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  margin-top: 6px;
+  margin-bottom: 8px;
+  text-align: right;
+  font-style: italic;
+  opacity: 0.85;
+}
