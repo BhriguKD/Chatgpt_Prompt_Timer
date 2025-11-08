@@ -33,8 +33,6 @@ It seamlessly integrates into the ChatGPT interface (both light and dark mode) a
 |---------------|----------------|
 | ![Extension Icon](assets/toolbar-view.png) | ![Extension in List](assets/extension-list.png) |
 
-*(Make sure to add your screenshots inside an `assets/` folder.)*
-
 ---
 
 ## Installation (Manual)
